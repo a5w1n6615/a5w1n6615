@@ -1,5 +1,5 @@
 # **Write-Up**<br>
-As a bio-science and a noobie when it comes to coding, Bi0s Get wired CTF has really helped me in many ways like using various<br>
+As a bio-science and a noobie when it comes to coding, Bi0s Get wired CTF has really helped me in many ways like using various
 softwares and also getting hands-on experience with aurdino, ESP8266,etc<br>
 Here, I would like to give a brief description about the challenges that I had sucessfully completed.<br>
 
